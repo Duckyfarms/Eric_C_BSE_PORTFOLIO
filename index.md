@@ -1,7 +1,7 @@
 ﻿# Making A Unity Game
 My project is building a Unity Game from Scratch!
 
-| **Engineer** | **School** | **Area of Interest** | **9** |
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Eric Chen | Palo Alto High School | Electrical Engineering | Incoming sophomore
 
