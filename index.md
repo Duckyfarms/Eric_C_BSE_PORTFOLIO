@@ -5,10 +5,10 @@ My project is building a Unity Game from Scratch!
 |:--:|:--:|:--:|:--:|
 | Eric Chen | Palo Alto High School | Electrical Engineering | Incoming Sophmore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Unity Headstone Image](![image](https://user-images.githubusercontent.com/86121473/124307773-266acc80-db1d-11eb-8529-6e4a14a3b4b2.png))
   
 # Final Milestone
-My final milestone was to make a background, end the game when the robot touches an enemy bomb, and make a GameOver scene to transfer the scene after the robot has been hit by a bomb. I also changed how high the robot can jump, where the enemy bomber spawns, and when the platforms move. When I made the collision script, I had to use OnCollision2D instead of OnCollision because it was a 2D game, and if you didn't you would get errors. I also used setactive, which made an object active or not active. I used this this to pause the actions of my robot when it was hit by an enemy bomber.I then used SceneManager.LoadScene("") to load the game over scene.
+My final milestone was to make a background, end the game when the robot touches an enemy bomb, and make a GameOver scene to transfer the scene after the robot has been hit by a bomb. I also changed how high the robot can jump, where the enemy bomber spawns, and when the platforms move. When I made the collision script, I had to use OnCollision2D instead of OnCollision because it was a 2D game, and if you didn't you would get errors. I also used SetActive, which made an object active or not active. I used this this to pause the actions of my robot when it was hit by an enemy bomber. I then used SceneManager.LoadScene("") to load the game over scene.
 )
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625245196/video_to_markdown/images/youtube--HgCicNDgtKA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HgCicNDgtKA "Third Milestone"){:target="_blank" rel="noopener"}
 
